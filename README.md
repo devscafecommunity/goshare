@@ -1,4 +1,4 @@
-# Repositório GoShare - Compartilhando Projetos da Comunidade Dev'sCafé
+# Repositório GoShare - Compartilhando Projetos da Comunidade Dev's Café
 
 Bem-vindo ao repositório GoShare! Este é um espaço destinado à comunidade Dev'sCafé para compartilhar e descobrir projetos interessantes desenvolvidos por seus membros. Para manter a qualidade e relevância dos projetos compartilhados, algumas regras e limitações foram estabelecidas. Por favor, leia atentamente antes de contribuir ou utilizar os recursos deste repositório.
 
