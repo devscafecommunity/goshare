@@ -62,6 +62,37 @@ O repositório GoShare possui a seguinte estrutura de diretórios:
 ```
 
 Por favor, siga essa estrutura ao adicionar novos projetos ao repositório.
+---
+
+## Formato JSON para project-meta.json
+
+```json
+{
+  "title": "Título do Projeto",
+  "description": "Descrição do Projeto",
+  "longDescription": "Descrição mais detalhada do projeto.",
+  "author": "Nome do Autor",
+  "repository": "Link para o Repositório",
+  "license": "Tipo de Licença",
+  "version": "Versão do Projeto",
+  "tags": ["tag1", "tag2", "tag3"],
+  "image": "URL da Imagem do Projeto"
+}
+```
+
+- `"title"`: O título do projeto.
+- `"description"`: Uma breve descrição do projeto.
+- `"longDescription"`: Uma descrição mais detalhada do projeto.
+- `"author"`: O nome do autor ou dos autores do projeto.
+- `"repository"`: O link para o repositório do projeto.
+- `"license"`: O tipo de licença sob a qual o projeto está distribuído.
+- `"version"`: A versão atual do projeto.
+- `"tags"`: Uma lista de tags ou palavras-chave que descrevem o projeto. 3 a 5 tags.
+- `"image"`: URL de uma imagem representativa do projeto.
+
+Certifique-se de preencher essas informações adequadamente ao criar ou atualizar o arquivo `project-meta.json` para seu projeto.
+
+---
 
 ## Contribuindo
 
@@ -70,3 +101,5 @@ Se você tem um projeto interessante que gostaria de compartilhar com a comunida
 Obrigado por fazer parte desta comunidade e por contribuir para o GoShare!
 
 **Nota:** Este documento está sujeito a alterações e atualizações. Certifique-se de consultar a versão mais recente antes de contribuir ou utilizar o repositório.
+
+
