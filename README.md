@@ -39,7 +39,7 @@ O repositório GoShare possui a seguinte estrutura de diretórios:
     📄 readme.md
     📄 project-meta.json
 
-📁 so
+📁 sistemas-opearcionais
   📁 projeto-autor
     📄 readme.md
     📄 project-meta.json
@@ -49,12 +49,12 @@ O repositório GoShare possui a seguinte estrutura de diretórios:
     📄 readme.md
     📄 project-meta.json
 
-📁 redes-web
+📁 redes
   📁 projeto-autor
     📄 readme.md
     📄 project-meta.json
 
-📁 lowlevel
+📁 low-level
   📁 projeto-autor
     📄 readme.md
     📄 project-meta.json
